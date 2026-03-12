@@ -1,0 +1,18 @@
+name = "libva_jll"
+uuid = "9a156e7d-b971-5f62-b2c9-67348b8fb97c"
+version = "2.23.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Xorg_libXext_jll = "1082639a-0dae-5f34-9b06-72781eeb8cb3"
+Xorg_libX11_jll = "4f6342f7-b3d2-589e-9d20-edeb45f2b2bc"
+libdrm_jll = "8e53e030-5e6c-5a89-a30b-be5b7263a166"
+Xorg_libXfixes_jll = "d091e8ba-531a-589c-9de9-94069b037ed8"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.6"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
