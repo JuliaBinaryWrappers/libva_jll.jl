@@ -1,128 +1,128 @@
 [[libva]]
 arch = "aarch64"
-git-tree-sha1 = "d3f07fae31301e8a419b991dccd49e93e410235d"
+git-tree-sha1 = "499c8d641a22ff40fefea6f3930537eece6c5f6f"
 libc = "glibc"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "32caee4560aa34793fd36e7444480c2c040ca10ef4e2dc321ba7228190215fb0"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "6f2acdb14cbbeeed5e78f93e523259bc7d96402686d6a31c504f1b68521cacba"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.aarch64-linux-gnu.tar.gz"
 [[libva]]
 arch = "aarch64"
-git-tree-sha1 = "3895ce79e9b71a04d456b6ab86350fb28b748fed"
+git-tree-sha1 = "1fd9839ea40bf24c8135263e02786b559beae81a"
 libc = "musl"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "eb55a24529df063db419a643dab7419ec7d0290cc73fb7de40ed21553c1a95c6"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.aarch64-linux-musl.tar.gz"
+    sha256 = "7f989d95c8f88377962f5079faeed794cfd88809e5e52b754108385d503a6f21"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.aarch64-linux-musl.tar.gz"
 [[libva]]
 arch = "aarch64"
-git-tree-sha1 = "ecd79f407173900a4ab0837983d86289ffdff213"
+git-tree-sha1 = "c62ad71bb7ccc29dfb258bdfaee2c543b0949d03"
 os = "freebsd"
 
     [[libva.download]]
-    sha256 = "6ac8625cee202f1d207c06a5cf2cc66adbb5af9f41163cd11e4e8c57bf19fd7b"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "cf278302a2e81d5d50020a023f09eed2396b16d28ac0897c67911b4b2bf4a033"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.aarch64-unknown-freebsd.tar.gz"
 [[libva]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "19f785e127baac60493aead124f6ffffc07d2d2b"
+git-tree-sha1 = "d749a988e756e2bb5eb3d403291ff0de8e9ce00f"
 libc = "glibc"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "c7c82753240c2389df2a16b1dc6f2738059ba78f6c7ebc4f5c51ca87c82ed88b"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "30bb65f77a58ce403056645f9b5e8db548e6b8dac5d985a12a2367fc8a7e6f5b"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.armv6l-linux-gnueabihf.tar.gz"
 [[libva]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "99413cd27754f4b14b0824affdbce07cf20bbdbb"
+git-tree-sha1 = "9fb06eb1e07a3d339b769c351e5f1d397daba7e3"
 libc = "musl"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "e169e455e1b6ff42121b5f5430a303ce7421a51a9db6657a788f7d742bc4309d"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "cb4036000494cc3cfd834c037e391d18a45e4ed84d6c3601828e459e650c81b3"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.armv6l-linux-musleabihf.tar.gz"
 [[libva]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d4f25ef39d3933a0c09e0329ca9e9119475eb098"
+git-tree-sha1 = "2a1df042d04593c4f2e958ccb89c959b281a20ca"
 libc = "glibc"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "6c7b49e28b3ebf35efb5c7058fe194f67ec011fe815f5f5dbbc3cc7bdf3ffa55"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "85e1b21f92f5b243e82be4a99ef7837e6f182a6cdc0e4be9192c0fae7e16e01e"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.armv7l-linux-gnueabihf.tar.gz"
 [[libva]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d82457d3c490901eea689c98ba3c9a901a95872e"
+git-tree-sha1 = "4021692644100bee6bb55dca257579232eae7fa5"
 libc = "musl"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "5b1544e1b57df01c628a038dad6b6cc4db57d605955e3d49ea1038b996b8961d"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "e5304e078a26b33eeac430b74b3e1097b56f53339058929e5342c7cbd79a89e7"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.armv7l-linux-musleabihf.tar.gz"
 [[libva]]
 arch = "i686"
-git-tree-sha1 = "ecd3010b25a7277b3f37ff87e3e5dd85ec0b637d"
+git-tree-sha1 = "a0256a15a89283d1726109fa5b812f87d64a136f"
 libc = "glibc"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "0db8b9c6038769310b3da683cf82085953f5ab80acc0a5c39c2d9919b6f69df2"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.i686-linux-gnu.tar.gz"
+    sha256 = "2255c618030dbdbf213ad3e9de19160334981bfe97b1d9303ac0263019e492c7"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.i686-linux-gnu.tar.gz"
 [[libva]]
 arch = "i686"
-git-tree-sha1 = "d0ccedb858d608061cfbdab56be0a23a31629557"
+git-tree-sha1 = "9b07e3997bab0f1410f9e430083e02a20c6b6e53"
 libc = "musl"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "392c6467bdc051363797d673ffeb8709cdd5f2a366fe115b23b3576d8ef4528f"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.i686-linux-musl.tar.gz"
+    sha256 = "c96289bb00b6418a7cb382f66637d1de55f6328a1152a41a5b3f0285e2fbacfe"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.i686-linux-musl.tar.gz"
 [[libva]]
 arch = "powerpc64le"
-git-tree-sha1 = "0dd37339c9ad1f1f507cff574a5d604b5139eb40"
+git-tree-sha1 = "497b1c30a2ceba41593d7a5fe3e5dfe483f68f2d"
 libc = "glibc"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "d0f7eb2fe9c9573f20a58db4b32b2dd228026ba57405c39611d827318375913b"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "dbdf1c51e3b51b4d9203917089a4ea2031e5485a80bc2b22022a242cfd4967cf"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.powerpc64le-linux-gnu.tar.gz"
 [[libva]]
 arch = "riscv64"
-git-tree-sha1 = "ddbde60927a79b097fa5b1aae4a1f09cf04fdbec"
+git-tree-sha1 = "62312975e211578ab9f822f9f270e2525168faab"
 libc = "glibc"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "6d8d8bc09040e58c788acc12375ffdb09f5b7af4f2a35c9d120ba462e2468e9d"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "16e07a22bea103c16cfc2f09d342153dfede3d00612bc55b21698cacf89a5217"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.riscv64-linux-gnu.tar.gz"
 [[libva]]
 arch = "x86_64"
-git-tree-sha1 = "33f5589f1ac22f399e59bab964eb85fa298f21e5"
+git-tree-sha1 = "6bfd183b6382bebe3c7d98669460d0be0cca624c"
 libc = "glibc"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "9efd8472e0ab79cdf3957f4b3be2c725cf931b1e5a1bfe15542fba9c24f0cd4e"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "5aff4aa53275063ac423d7fa00899849b02422c18c9fb66c9e27b6f0afdd8a1f"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.x86_64-linux-gnu.tar.gz"
 [[libva]]
 arch = "x86_64"
-git-tree-sha1 = "eddb4e4ffc88d3ddb337b0c6882de1d9d5d1f66e"
+git-tree-sha1 = "c7172f74ea676019900b96e76713420eab80c580"
 libc = "musl"
 os = "linux"
 
     [[libva.download]]
-    sha256 = "9e28f01ddbd1d9fcc748bb00232bbacb5c462920e3007bc8c3d14b55d20ab0ee"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.x86_64-linux-musl.tar.gz"
+    sha256 = "26db30500c98fffd906be0f47c183fe6a2b2ae814fbeeec26dec54ffe7b159f3"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.x86_64-linux-musl.tar.gz"
 [[libva]]
 arch = "x86_64"
-git-tree-sha1 = "4dc1980c75e708a47f552ff1cdcda3f4342db34b"
+git-tree-sha1 = "1506621b628835d04822ea3168d19a49d65212ee"
 os = "freebsd"
 
     [[libva.download]]
-    sha256 = "bf2a68226eb5a45eeaa8cec461b388e835ff9d18d7b7959d097a2ed11edde800"
-    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.23.0+0/libva.v2.23.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "751e352e7806179b69175d755b7e78c00882d269cfc9a1944ba3bfe6b4b74512"
+    url = "https://github.com/JuliaBinaryWrappers/libva_jll.jl/releases/download/libva-v2.24.1+0/libva.v2.24.1.x86_64-unknown-freebsd.tar.gz"
